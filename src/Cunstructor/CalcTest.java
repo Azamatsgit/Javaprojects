@@ -7,5 +7,7 @@ public class CalcTest {
         System.out.println(c);
         c.plus(4).plus(6);
         System.out.println(c.getResult());
+
+        // thats change  for gitHub
     }
 }
